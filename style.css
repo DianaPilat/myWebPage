@@ -1,0 +1,192 @@
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 100px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 4px;
+    background-color: #FF99CC !important; 
+}
+
+.navbar-nav li a:hover {
+    color: white !important;
+}
+
+.container-fluid{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.bg-1 { 
+    background-color: white; 
+    color: #807F89;
+}
+
+.bg-2 { 
+    background-color: #807F89; 
+    color: #ffffff;
+}
+
+.bg-3 {
+  background-color: white;
+  color: #807F89;
+}
+
+.bg-4 {
+  background-color: #D7DBD1;
+  color: dart grey;
+}
+
+.bg-5{
+  background-color:white;
+  color: #807F89;
+}
+
+.bg-6{
+  background-color:#FF99CC;;
+  color: white;
+}
+
+#img-me {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 30%;
+  float: right;
+  margin-right: 90px;
+}
+
+#img-education {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 30%;
+  float: right;
+  margin-right: 90px;
+  margin-left: 50px;
+}
+
+#img-experience {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 30%;
+  float: right;
+  margin-right: 90px;
+  margin-left: 100px;
+}
+
+#img-projects {
+  height: 500px;
+  width: 270px;
+  border: 1px solid black;
+  border-radius: 10%;
+  float: right;
+  margin-right: 70px;
+  margin-left: 50px;
+}
+
+#img-skills {
+  height: 300px;
+  border: 1px solid black;
+  border-radius: 30%;
+  float: right;
+  margin-right: 90px;
+  margin-left: 80px;
+}
+
+#img-resources {
+  height: 280px;
+  width: 350px;
+  border: 1px solid black;
+  border-radius: 30%;
+  float: right;
+  margin-right: 90px;
+  margin-left: 100px;
+}
+
+.heading{
+  float: left;
+  margin-left: 100px;
+  font-family: Lora;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.heading-kitty{
+  float: left;
+  margin-left: 100px;
+  font-family: Lora;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #FF99CC;
+}
+
+.details{
+  float: right;
+  text-align:justify;
+  font-family: Muli;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.project-details {
+  float: left;
+  text-align:justify;
+  font-family: Muli;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.game-list {
+  float: left;
+  text-align:justify;
+  font-family: Muli;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-top: 30px;
+  margin-left: 100px;
+  color:#FF99CC;
+}
+
+.resources-list {
+  text-align:justify;
+  font-family: Muli;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-top: 80px;
+  margin-left: 100px;
+  color:white;
+}
+
+#headings-2{
+  margin-left: 415px;
+  font-family: Times;
+  font-size: 45px;
+}
+
+#headings {
+  font-family: 'Bitter';
+  font-size: 50px;
+}
+
+p {
+  font-family: Bitter;
+  font-size: 20px;
+}
+
+#copyright {
+  font-size: 12px;
+  letter-spacing: 4px;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.resources-list li a:hover {
+    color: dart grey !important;
+}
